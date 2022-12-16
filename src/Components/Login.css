@@ -1,0 +1,97 @@
+.Main {
+  text-align: center;
+  align-content: center;
+  background-image: url('/src/bg/loginbg.jpg');
+  background-size: 1700px;
+  background-repeat: no-repeat;
+}
+
+
+
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.LoginHeader {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  font-weight: bolder;
+  align-content: center;
+}
+
+.inputs {
+  padding: 20px;
+}
+
+.or {
+  color: white;
+}
+
+.username {
+  width: 30%;
+  height: 40px;
+  border-width: 1;
+  margin-bottom: 10px;
+  border-color: #9bc24a;
+  background: transparent;
+  outline: none;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+}
+
+.password {
+  width: 30%;
+  height: 40px;
+  border-color: #9bc24a;
+  background: transparent;
+  outline: none;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+}
+
+.login {
+  width: 210px;
+  height: 45px;
+  border-radius: 20px;
+  background-color: #28381f;
+  margin-bottom: 15px;
+  color: white;
+  font-family: "Verdana", sans-serif;
+  border-color: #9bc24a;
+}
+
+.createnew {
+  width: 210px;
+  height: 45px;
+  border-radius: 20px;
+  background-color: #a4ce57;
+  color: #000000;
+  font-family: "Verdana", sans-serif;
+  border-color: #9bc24a;
+  margin-top: 5px;
+
+}
+
+.login:hover {
+  background-color: #466138;
+}
+
+.createnew:hover {
+  background-color: #466138;
+}
+
+
+.register {
+  text-align: center;
+  align-content: center;
+  background-image: url('/src/bg/loginbg.jpg');
+  background-size: cover;
+}

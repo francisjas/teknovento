@@ -1,0 +1,48 @@
+.ItemsAdded {
+    text-align: center;
+    background-image: url('/src/bg/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    background-color: #28381F;
+    align-items: center;
+    justify-content: center;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.AddForm {
+    position: absolute;
+    width: 1062px;
+    height: 636px;
+    left: 233px;
+    top: 241px;
+}
+.Button{
+    text-align: center;
+}

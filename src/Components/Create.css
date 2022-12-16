@@ -1,0 +1,73 @@
+.Create {
+    text-align: center;
+    align-content: center;
+    background-image: url('/src/bg/loginbg.jpg');
+    background-size: cover;
+  }
+  
+  
+  
+  .Login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .SignHeader{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    align-content: center;
+  }
+  
+  
+  
+  .or{
+    color: white;
+  }
+  
+  
+  
+  .signupman{
+    width: 210px;
+    height: 45px;
+    border-radius: 20px;
+    background-color: #28381f;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: white;
+    font-family: "Verdana", sans-serif;
+    border-color: #9bc24a;
+  }
+  
+  .signupcus{
+    width: 210px;
+    height: 45px;
+    border-radius: 20px;
+    background-color: #a4ce57;
+    color: #000000;
+    font-family: "Verdana", sans-serif;
+    border-color: #9bc24a;
+    margin-top: 5px;
+  
+  }
+  
+  .signupman:hover{
+    background-color: #466138;
+  }
+  
+  .signupcus:hover{
+    background-color: #466138;
+  }
+  
+  
+  .register{
+    text-align: center;
+    align-content: center;
+    background-image: url('/src/bg/loginbg.jpg');
+    background-size: cover;
+  }
+  
+  

@@ -1,0 +1,152 @@
+.customer {
+    text-align: center;
+    align-content: center;
+    background-image: url('/src/bg/customer.jpg');
+    background-size: cover;
+  }
+  
+.manager {
+    text-align: center;
+    align-content: center;
+    background-image: url('/src/bg/manager.jpg');
+    background-size: cover;
+  }
+  
+  
+  
+  .CusHeader{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    align-content: center;
+  }
+  
+  .inputs{
+    padding: 20px;
+  }
+  
+  
+  .usernamee{
+    width: 25%;
+    height: 40px;
+    border-width: 1;
+    margin-top: 50  px;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+  .firstname{
+    width: 25%;
+    height: 40px;
+    border-width: 1;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+  .lastname{
+    width: 25%;
+    height: 40px;
+    border-width: 1;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+  .age{
+    width: 25%;
+    height: 40px;
+    border-width: 1;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+  .address{
+    width: 25%;
+    height: 40px;
+    border-width: 1;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+
+  .salary{
+    width: 25%;
+    height: 40px;
+    border-width: 1;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+  .passwordd{
+    width: 25%;
+    height: 40px;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+  .reenter{
+    width: 25%;
+    height: 40px;
+    border-width: 1;
+    border-color: #28381F;
+    background: transparent;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+  .registerr{
+    width: 210px;
+    height: 45px;
+    border-radius: 20px;
+    background-color: #28381f;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: white;
+    font-family: "Verdana", sans-serif;
+    border-color: #9bc24a;
+  }
+  
+  
+  .registerr:hover{
+    background-color: #466138;
+  }
+  
+
+  

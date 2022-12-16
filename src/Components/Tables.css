@@ -1,0 +1,16 @@
+
+.viewTable {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+
+}
+
+.viewTable {
+    text-align: center;
+    background-image: url('/src/bg/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
